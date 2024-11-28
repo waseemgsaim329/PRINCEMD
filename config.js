@@ -32,7 +32,7 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 //BETA: If you want to avoid typing the number that will be bot into the console, I added from here then:
 //Only applies to option 2 (be a bot with an 8-digit text code)
 
-global.botNumberCode = "" //Example: +923092668108
+global.botNumberCode = "" //Example: +971554400658
 global.confirmCode = "" 
 
 
@@ -40,9 +40,9 @@ global.confirmCode = ""
 
 
 //💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['923092668108'] 
-global.prems = ['923092668108']
-global.allowed = ['923092668108']
+global.mods = ['971554400658'] 
+global.prems = ['971554400658']
+global.allowed = ['971554400658']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -143,7 +143,7 @@ global.princeImg = [imagen1, imagen2, imagen3, imagen4, imagen5, imagen6, imagen
 
 
 // Moderator 
-global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
+global.developer = '𝐕𝐢𝐩-𝐃𝐚𝐫𝐤-𝐇𝐚𝐜𝐤𝐞𝐫' //contact
 //💌------------------------------------------💌
 
 
@@ -151,14 +151,14 @@ global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
 //Sticker WM
 global.wm = process.env.BOT_NAME
 global.botname = process.env.BOT_NAME
-global.princebot = '🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️'
+global.princebot = '🛡️𝐕𝐢𝐩-𝐃𝐚𝐫𝐤-𝐇𝐚𝐜𝐤𝐞𝐫🛡️'
 global.packname = process.env.PACK_NAME
-global.author = 'Prince♥️' 
+global.author = '𝐕𝐢𝐩-𝐃𝐚𝐫𝐤-𝐇𝐚𝐜𝐤𝐞𝐫' 
 global.princeig = 'https://www.instagram.com' 
-global.princegp = 'https://whatsapp.com/channel/0029VaKNbWkKbYMLb61S1v11'
+global.princegp = 'https://whatsapp.com/channel/0029VadwOWk1CYoM13U2gc00'
 global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
-global.Princesc = 'https://github.com/PRINCE-GDS/THE-PRINCE-BOT' 
-global.princeyt = 'https://youtube.com/'
+global.Princesc = 'https://whatsapp.com/channel/0029VadwOWk1CYoM13U2gc00' 
+global.princeyt = 'https://whatsapp.com/channel/0029VadwOWk1CYoM13U2gc00/'
 global.Princelog = 'https://i.imgur.com/cUvIv5w.jpeg'
 global.thumb = fs.readFileSync('./Assets/Prince.png')
 //💌------------------------------------------💌
